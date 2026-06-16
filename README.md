@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dflcdbqvq/image/upload/v1781567648/LandingPageOpenhub_3_t0bdiu.gif" width="100%" alt="Openhub Banner" />
+  <img src="public/assets/hero.gif" width="100%" alt="Openhub Banner" />
 </p>
 
 # Openhub
@@ -67,7 +67,7 @@ Arquitectura diseñada para interfaces fluidas, animaciones inmersivas y rendimi
 
 | Landing Page (Hero) | Landing Page (Capabilities) |
 | :---: | :---: |
-| <img src="https://res.cloudinary.com/dflcdbqvq/image/upload/v1781567648/LandingPageOpenhub_3_t0bdiu.gif" width="100%"/> | <img src="https://res.cloudinary.com/dflcdbqvq/image/upload/v1781565277/LandingPage2Openhub_xef2yk.gif" width="100%" /> |
+| <img src="public/assets/hero.gif" width="100%"/> | <img src="public/assets/capabilities.gif" width="100%" /> |
 
 <br>
 
